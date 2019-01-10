@@ -28,4 +28,16 @@ Seed **after** installing passport for correctly stored passwords
 php artisan db:seed
 ```
 
+Now run
+```
+php artisan serve
+```
+
+## How to start?
+Login, send a message and check the history!
+
+The API Endpoints needed for this can be found here:
+
+https://documenter.getpostman.com/view/2160335/RznFqdwe
+
 Let's get shit done!
