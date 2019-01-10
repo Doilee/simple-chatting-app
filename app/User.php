@@ -44,7 +44,6 @@ class User extends LaravelUser
         'password', 'remember_token',
     ];
 
-
     /**
      * Send the email verification notification.
      *
